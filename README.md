@@ -29,5 +29,4 @@ This project is an **AI-powered platform for predicting heart disease** using **
 
 ---
 
-## Project Structure
 
